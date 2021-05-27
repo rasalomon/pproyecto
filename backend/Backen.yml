@@ -1,0 +1,20 @@
+17:17:19 [ERROR] COMPILATION ERROR : 
+17:17:19 [INFO] -------------------------------------------------------------
+17:17:19 [ERROR] /u00/jenkins2-agent/workspace/Enterprise-Solutions/Weaver/Settlement/weaver-scheduler-job-israel-settlement-notify/src/main/java/com/verifone/weaver/settlement/dao/utils/MsgMappingUtil.java:[86,19] cannot find symbol
+17:17:19   symbol:   method setAcquirerAckDate(java.sql.Timestamp)
+17:17:19   location: variable substatusMsg of type com.verifone.rabbitmq.messages.SubstatusMsg
+17:17:19 [ERROR] /u00/jenkins2-agent/workspace/Enterprise-Solutions/Weaver/Settlement/weaver-scheduler-job-israel-settlement-notify/src/main/java/com/verifone/weaver/settlement/dao/utils/MsgMappingUtil.java:[87,19] cannot find symbol
+17:17:19   symbol:   method setSchRequestId(java.lang.String)
+17:17:19   location: variable substatusMsg of type com.verifone.rabbitmq.messages.SubstatusMsg
+17:17:19 [ERROR] /u00/jenkins2-agent/workspace/Enterprise-Solutions/Weaver/Settlement/weaver-scheduler-job-israel-settlement-notify/src/main/java/com/verifone/weaver/settlement/dao/utils/MsgMappingUtil.java:[88,19] cannot find symbol
+17:17:19   symbol:   method setErrorCount(int)
+17:17:19   location: variable substatusMsg of type com.verifone.rabbitmq.messages.SubstatusMsg
+17:17:19 [ERROR] /u00/jenkins2-agent/workspace/Enterprise-Solutions/Weaver/Settlement/weaver-scheduler-job-israel-settlement-notify/src/main/java/com/verifone/weaver/settlement/dao/utils/MsgMappingUtil.java:[89,19] cannot find symbol
+17:17:19   symbol:   method setErrorValue(java.math.BigDecimal)
+17:17:19   location: variable substatusMsg of type com.verifone.rabbitmq.messages.SubstatusMsg
+17:17:19 [ERROR] /u00/jenkins2-agent/workspace/Enterprise-Solutions/Weaver/Settlement/weaver-scheduler-job-israel-settlement-notify/src/main/java/com/verifone/weaver/settlement/dao/utils/MsgMappingUtil.java:[90,19] cannot find symbol
+17:17:19   symbol:   method setMinTransactionDateTime(java.sql.Timestamp)
+17:17:19   location: variable substatusMsg of type com.verifone.rabbitmq.messages.SubstatusMsg
+17:17:19 [ERROR] /u00/jenkins2-agent/workspace/Enterprise-Solutions/Weaver/Settlement/weaver-scheduler-job-israel-settlement-notify/src/main/java/com/verifone/weaver/settlement/dao/utils/MsgMappingUtil.java:[91,19] cannot find symbol
+17:17:19   symbol:   method setMaxTransactionDateTime(java.sql.Timestamp)
+17:17:19   location: variable substatusMsg of type com.verifone.rabbitmq.messages.SubstatusMsg
