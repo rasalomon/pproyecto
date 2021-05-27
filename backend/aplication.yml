@@ -11,8 +11,5 @@
 "registry-mirrors": ["http://10.27.8.66:5555"],
 "insecure-registries": ["10.27.8.66:5555"],
 "debug": false,
-"experimental": false,
-"features": {
-"buildkit": true
 }
 }
